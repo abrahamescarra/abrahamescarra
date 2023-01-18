@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abraham Escarrá
-- 👨‍🎓 I am a Computer Engineering graduate
-- 🌱 I’m currently working as a FullStack Developer, specialized in React and Django Rest Framework
+- 👨‍🎓 I am a Computer Engineering
+- 🌱 I’m currently working as a FullStack Developer, specialized in React, VueJS, Flask and Django Rest Framework
 - 📫 How to reach me: abraham.escarra@gmail.com
 
 <!---

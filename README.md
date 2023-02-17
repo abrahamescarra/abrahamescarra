@@ -5,18 +5,20 @@
   </head>
   <body>
     <h1>Hi there, I'm Abraham Escarrá</h1>
-    <p>I'm an experienced full stack developer with a degree in computer engineering. I take pride in developing robust and scalable web applications that deliver great user experiences. If you want to get in touch with me, please send me an email to <a href="mailto:abraham.escarra@gmail.com">abraham.escarra@gmail.com</a>.</p>
+    <p> I'm an experienced full stack developer with a degree in computer engineering. I have a strong passion for creating robust and scalable web applications that deliver great user experiences. I take pride in my ability to handle the entire software development lifecycle, from ideation and conceptualization to deployment and maintenance.</p>
     <h2>Experience</h2>
     <ul>
       <li><a href="https://app.servifleets.com">Servifleets</a>: An all-in-one fleet management software that simplifies dispatching, billing, and more.</li>
-      <li><a href="https://all1ntruck.com">All in One Truck Services</a>: A Portal for a Truck Insurance Company to manage the logic of the company</li>
-      <li><a href="https://portalnw.sgainsurance.com/">Safeguard Portal</a>: A portal for a big Insurance Company, to manage all the logic of the company</li>
+      <li><a href="https://portalnw.sgainsurance.com/">Safeguard Portal</a>: A comprehensive portal created for a major insurance company, to effectively manage all aspects of their business logic. </li>
+      <li><a href="https://all1ntruck.com">All in One Truck Services</a>: A portal designed for a truck insurance company to manage all aspects of their business logic. </li>
     </ul>
     <h2>Skills</h2>
+    <p>My skills include full stack web development with a focus on using the latest technologies for both front-end and back-end. Some of the technologies I am proficient in include:</p>
     <ul>
-      <li>Full stack web development</li>
-      <li>Front-end technologies: React and VueJS</li>
-      <li>Back-end technologies: Django Rest Framework, Flask, and serverless functions in TypeScript for AWS services</li>
+      <li>React and VueJS for the front-end</li>
+      <li>Django Rest Framework, Flask, and serverless functions in TypeScript for the back-end</li>
+      <li>AWS for hosting and deployment</li>
     </ul>
+    <p>If you're looking for someone who can deliver high-quality web applications that meet your business needs, I'd love to hear from you. Feel free to reach out to me via email at <a href="mailto:abraham.escarra@gmail.com">abraham.escarra@gmail.com</a>.</p>
   </body>
 </html>

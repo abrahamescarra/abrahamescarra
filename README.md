@@ -4,12 +4,11 @@
     <meta charset="UTF-8">
   </head>
   <body>
-    <h1>Hi there, I'm Abraham Escarrá</h1>
-    <p> I'm an experienced full stack developer with a degree in computer engineering. I have a strong passion for creating robust and scalable web applications that deliver great user experiences. I take pride in my ability to handle the entire software development lifecycle, from ideation and conceptualization to deployment and maintenance.</p>
+    <h1>Hi there, I'm Abraham Escarra</h1>
+    <p> I'm an experienced full stack engineer with a degree in computer engineering. I have a strong passion for creating robust and scalable web applications that deliver great user experiences. I take pride in my ability to handle the entire software development lifecycle, from ideation and conceptualization to deployment and maintenance.</p>
     <h2>Experience</h2>
     <ul>
-      <li><a href="https://app.servifleets.com">Servifleets</a>: An all-in-one fleet management software that simplifies dispatching, billing, and more.</li>
-      <li><a href="https://portalnw.sgainsurance.com/">Safeguard Portal</a>: A comprehensive portal created for a major insurance company, to effectively manage all aspects of their business logic. </li>
+      <li><a href="https://portal.sysagencysphere.com/">E&D Portal</a>: A comprehensive portal created for a major insurance company, to effectively manage all aspects of their business logic. </li>
       <li><a href="https://all1ntruck.com">All in One Truck Services</a>: A portal designed for a truck insurance company to manage all aspects of their business logic. </li>
     </ul>
     <h2>Skills</h2>
